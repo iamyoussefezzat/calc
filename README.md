@@ -89,7 +89,7 @@ This project is licensed under the MIT License — free to use, modify and distr
 
 👤 Author
 
-<a href "https://github.com/iamyoussefezzat"> Youssef M.Ezzat <a>
+<a href "https://github.com/iamyoussefezzat"> Youssef M.Ezzat </a>
  — If you enjoy this app or have feedback, feel free to open an issue or send me a message.
 
 ⭐ Thanks for checking out Calc! Don’t forget to give it a star if you find it helpful.
